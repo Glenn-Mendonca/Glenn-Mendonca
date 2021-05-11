@@ -1,5 +1,5 @@
 <img src="./gitimage.png" height=90% width=60%/><img align="right" height=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=glenn-mendonca&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="glenn-mendonca" />
-<h1 align="center">Hello there! 👋, my name is Glenn Mendonca.</h1>
+<h1 align="center">Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, my name is Glenn Mendonca.</h1>
 <h3 align="center">Currently a bachelor pursuing a degree in Computer Engineering.</h3>
 
 - 🔭 I’m currently working on **My Webpage, React dynamic site.**
@@ -13,6 +13,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Glenn-Mendonca](https://github.com/Glenn-Mendonca)
 
 - 💬 Ask me about **Python**
+
+- 😄 Pronouns: **He/ Him**
 
 - 📫 How to reach me **glenm.code@gmail.com**
 
