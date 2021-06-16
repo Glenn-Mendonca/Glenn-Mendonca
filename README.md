@@ -1,13 +1,12 @@
-### Hello World 👋, Glenn here  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=glenn-mendonca&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
+### &emsp;&emsp;Hello World 👋 Glenn here <img align="right" height=125px src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-mendonca&layout=compact&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
+#### &emsp;Connect with me: <a href="https://twitter.com/glennmendonca1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter" height="30" width="40" /></a><a href="https://www.hackerrank.com/glenn_m" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a><a href="https://www.hackerearth.com/@gmendcode" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="HackerEarth" height="30" width="30" /></a><a href="https://discord.gg/6422" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="Discord" height="30" width="40" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-mendonca&layout=compact&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" src="https://github-readme-stats.vercel.app/api?username=glenn-mendonca&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>  
 
-- :orange_book: Focusing on ***Javascript*** and ***C++***
-- :computer: Pursuing degree in **Computer Engineering**
-- :telescope: I’m currently working on **My Webpage, Keep Track.**
-- :two_men_holding_hands: I’m looking to collaborate on **Python**
+- :orange_book: Focusing on ***Javascript*** and ***C++***.
+- :computer: Pursuing degree in **Computer Engineering**.
+- :telescope: I’m currently working on **My Webpage, Keep Track**.
+- :two_men_holding_hands: I’m looking to collaborate on **Python**.
 - 📫 How to reach me **glenm.code@gmail.com**
-
-**Connect with me:** [![Twitter](./icons/twitter-6.svg)](https://twitter.com/glennmendonca1) [![HackerRank](./icons/hackerrank.svg)](https://www.hackerrank.com/glenn_m) [![HackerEarth](https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png)](https://www.hackerearth.com/@gmendcode) [![Discord](./icons/discord-4.svg)](https://discord.gg/6422)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
