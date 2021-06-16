@@ -7,7 +7,7 @@
 - :two_men_holding_hands: I’m looking to collaborate on **Python**
 - 📫 How to reach me **glenm.code@gmail.com**
 
-**Connect with me:** [![Twitter](https://cdn.worldvectorlogo.com/logos/twitter-6.svg)](https://twitter.com/glennmendonca1) [![HackerRank](https://cdn.worldvectorlogo.com/logos/hackerrank.svg)](https://www.hackerrank.com/glenn_m) [![HackerEarth](https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png)](https://www.hackerearth.com/@gmendcode) [![Discord](https://cdn.worldvectorlogo.com/logos/discord.svg)](https://discord.gg/6422)
+**Connect with me:** [![Twitter](./icons/twitter-6.svg)](https://twitter.com/glennmendonca1) [![HackerRank](./icons/hackerrank.svg)](https://www.hackerrank.com/glenn_m) [![HackerEarth](https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png)](https://www.hackerearth.com/@gmendcode) [![Discord](./icons/discord-4.svg)](https://discord.gg/6422)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
