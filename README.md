@@ -3,7 +3,7 @@
 
 - :orange_book: Focusing on ***Javascript*** and ***C++***.
 - :computer: Pursuing degree in **Computer Engineering**.
-- :telescope: I’m currently working on **My Webpage, Keep Track**.
+- :telescope: I’m currently working on **Othello, Keep Track**.
 - :two_men_holding_hands: I’m looking to collaborate on **Python**.
 - 📫 How to reach me **glenm.code@gmail.com**
 <h1></h1>
