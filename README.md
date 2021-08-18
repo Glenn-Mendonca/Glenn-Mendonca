@@ -1,5 +1,5 @@
 <h2 align="center">Hello World 👋 Glenn here </h2>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=glenn-mendonca&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Glenn-Mendonca&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/> 
 
 - :orange_book: Focusing on ***Javascript*** and ***C++***.
 - :computer: Pursuing degree in **Computer Engineering**.
