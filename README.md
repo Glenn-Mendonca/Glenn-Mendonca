@@ -1,6 +1,6 @@
 <h2 align="center">Hello World 👋 Glenn here </h2>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Glenn-Mendonca&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Glenn-Mendonca&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&count_private=true"/> 
 
 - :orange_book: Focusing on ***React*** and ***NodeJS***.
 - :computer: Pursuing degree in **Computer Engineering**.
@@ -11,7 +11,7 @@
 <h1></h1>
 
 
-<img align="right" height=125px width=600px src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-mendonca&layout=compact&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
+<img align="right" height=125px width=600px src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-mendonca&layout=compact&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&langs_count=10&hide=tcl,jupyter notebook"/>
 
 
 #### &emsp;Connect with me
