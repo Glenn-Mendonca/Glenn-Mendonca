@@ -11,7 +11,7 @@
 <h1></h1>
 
 
-<img align="right" height=125px width=600px src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-mendonca&layout=compact&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&langs_count=10&hide=tcl,jupyter notebook"/>
+<img align="right" height=125px width=600px src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenn-mendonca&layout=compact&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&hide=tcl,jupyter%20notebook&langs_count=10"/>
 
 
 #### &emsp;Connect with me
