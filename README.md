@@ -2,10 +2,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Glenn-Mendonca&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&count_private=true"/> 
 
-- :orange_book: Focusing on ***React*** and ***NodeJS***.
+- :orange_book: Focusing on ***Machine Learning*** and ***NodeJS***.
 - :computer: Pursuing degree in **Computer Engineering**.
 - :telescope: I’m currently working on **BeIntern**.
-- :two_men_holding_hands: I’m looking to collaborate on **Python, Golang**.
+- :two_men_holding_hands: I’m looking to collaborate on **Python, Golang & NodeJS**.
 - 💁 Ready to help in **Backend Dev**.
 - 📫 How to reach me **glenem17@gmail.com**
 <h1></h1>
