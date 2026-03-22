@@ -2,10 +2,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Glenn-Mendonca&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&count_private=true"/> 
 
-- :orange_book: Focusing on ***Java***.
-- :computer: Pursuing degree in **Computer Engineering**.
-- :briefcase: I’m currently working at **Wissen Technology**.
-- :two_men_holding_hands: I’m looking to collaborate on **Python, Golang & NodeJS**.
+- :orange_book: Focusing on ***Distributed Systems***.
+- :computer: **Computer Engineering** with exp in fullstack dev.
+- :briefcase: I’m currently working at **Godrej Capital** as **SDE I**.
+- :two_men_holding_hands: I’m looking to collaborate on **NodeJS, Java, Python**.
 - 💁 Ready to help in **Backend Dev**.
 - 📫 How to reach me **glenem17@gmail.com**
 <h1></h1>
